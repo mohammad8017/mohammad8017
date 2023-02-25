@@ -103,15 +103,23 @@
 
 <li>
 <a href="https://twitter.com/mhmd_ghfz" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  mohammad8017-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  mhmd.ghfz-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+	
+<br>
+
+<li>
+<a href="https://twitter.com/mhmd_ghfz" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0:  mohammad_ghfz-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=telegram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
-
+	
 <li>
 <a href="mailto:mhmd.ghfz@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  mohammad8017-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  mhmd.ghfz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
