@@ -111,7 +111,7 @@
 
 <li>
 <a href="https://twitter.com/mhmd_ghfz" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0:  mohammad_ghfz-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=telegram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Telegram:  mohammad_ghfz-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=telegram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
