@@ -19,7 +19,8 @@
 
 <br>
 
-- A Machine Learning and Deep Learning developer
+- Machine Learning and Deep Learning developer
+- Data Scientist
 - Currently learning RL and Django by Self
 - Computer engineer student in Iran University of Science and Technology (IUST)
 
